@@ -1,4 +1,4 @@
-from MidiFile import MIDIFile
+from midiutil import MIDIFile
 from io import TextIOWrapper as FILE
 from math import floor
 from sys import argv as CMD_ARGS, exit
